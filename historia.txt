@@ -1,2 +1,3 @@
 Hola Soy Angel
 estudio en platzi
+por ahora estudio git y github
